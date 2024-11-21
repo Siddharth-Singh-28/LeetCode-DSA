@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0441-arranging-coins) |
 ## Recursion
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
