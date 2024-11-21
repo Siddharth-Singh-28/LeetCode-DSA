@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0066-plus-one) |
+| [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0441-arranging-coins) |
+| [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0058-length-of-last-word) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
