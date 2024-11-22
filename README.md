@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,16 +74,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 ## String
 |  |
 | ------- |
