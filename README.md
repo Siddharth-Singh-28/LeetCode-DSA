@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
