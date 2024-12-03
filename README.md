@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 ## Binary Search
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 ## Divide and Conquer
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
