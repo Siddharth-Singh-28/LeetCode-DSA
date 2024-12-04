@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 ## Divide and Conquer
