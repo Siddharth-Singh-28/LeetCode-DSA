@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0441-arranging-coins) |
+| [1013-fibonacci-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
