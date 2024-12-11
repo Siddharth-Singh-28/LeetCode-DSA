@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0742-to-lower-case) |
 ## Interactive
 |  |
 | ------- |
