@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 ## Divide and Conquer
 |  |
