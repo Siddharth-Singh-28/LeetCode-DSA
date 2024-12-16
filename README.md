@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0898-transpose-matrix) |
+| [1031-add-to-array-form-of-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
