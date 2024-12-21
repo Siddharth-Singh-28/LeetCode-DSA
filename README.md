@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0792-binary-search) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
