@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0202-happy-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0898-transpose-matrix) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0742-to-lower-case) |
