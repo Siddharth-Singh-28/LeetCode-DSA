@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0898-transpose-matrix) |
+| [2551-apply-operations-to-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
