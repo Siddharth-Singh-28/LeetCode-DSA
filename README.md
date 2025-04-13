@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
