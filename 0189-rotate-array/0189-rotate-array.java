@@ -1,20 +1,17 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        int pointer1 = 0;
-        int pointer2 = nums.length - (k % nums.length);
-        ArrayList<Integer> arr = new ArrayList<>();
-        for(int i=0; i<nums.length; i++){
-            if(pointer2<nums.length){
-                arr.add(nums[pointer2]);
-                pointer2++;
-            }
-            else{
-                arr.add(nums[pointer1]);
-                pointer1++;
-            }
-        }
-        for (int i = 0; i < nums.length; i++) {
-            nums[i] = arr.get(i);
+        k = k % nums.length;
+        reverse(nums, 0, nums.length-1);
+        reverse(nums, 0, k-1);
+        reverse(nums, k, nums.length-1);
+    }
+    public void reverse(int[] nums, int start, int end){
+        while(start < end){
+            int temp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = temp;
+            start++;
+            end--;
         }
     }
 }
