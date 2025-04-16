@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2032-largest-odd-number-in-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1205-defanging-an-ip-address) |
+| [2032-largest-odd-number-in-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Interactive
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [2032-largest-odd-number-in-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
