@@ -16,13 +16,13 @@ class Solution {
                 list.add(word);
             }
         }
-        String result = "";
+        word = "";
         for(int i=list.size()-1; i>=0; i--){
-            result = result + list.get(i);
+            word = word + list.get(i);
             if(i!=0){
-                result = result + " ";
+                word = word + " ";
             }
         }
-        return result;
+        return word;
     }
 }
