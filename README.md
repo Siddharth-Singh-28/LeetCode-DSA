@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
