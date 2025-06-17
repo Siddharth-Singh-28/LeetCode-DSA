@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -305,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0204-count-primes) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
