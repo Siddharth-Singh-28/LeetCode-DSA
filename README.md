@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2551-apply-operations-to-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0645-set-mismatch) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Stack
