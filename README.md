@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0782-jewels-and-stones) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1205-defanging-an-ip-address) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Interactive
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Enumeration
 |  |
 | ------- |
