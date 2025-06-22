@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0898-transpose-matrix) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1205-defanging-an-ip-address) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Interactive
