@@ -1,7 +1,6 @@
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
-
         for(int i=0; i<s.length(); i++){
             char curr = s.charAt(i);
             if(!stack.isEmpty()){
@@ -15,10 +14,9 @@ class Solution {
         }
         return stack.isEmpty();
     }
-
     public boolean isPair(char last, char curr){
-        return (last == '(' && curr == ')') ||
-               (last == '{' && curr == '}') ||
-               (last == '[' && curr == ']');
+        return(last == '(' && curr == ')') ||
+              (last == '{' && curr == '}') ||
+              (last == '[' && curr == ']');
     }
 }
