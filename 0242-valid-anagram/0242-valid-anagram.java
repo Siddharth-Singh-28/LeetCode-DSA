@@ -4,16 +4,14 @@ class Solution {
             return false;
         }
         HashMap<Character, Integer> map = new HashMap<>();
-        for(int i=0; i<s.length(); i++){
-            map.put(s.charAt(i), map.getOrDefault(s.charAt(i),0) + 1);
+        for(char c : s.toCharArray()){
+            map.put(c, map.getOrDefault(c,0) + 1);
         }
-        for(int i=0; i<t.length(); i++){
-            map.put(t.charAt(i), map.getOrDefault(t.charAt(i),0) - 1);
-        }
-        for(int val : map.values()){
-            if(val!=0){
+        for(char c : t.toCharArray()){
+            if(!map.containsKey(c) || map.get(c) == 0){
                 return false;
             }
+            map.put(c, map.get(c) - 1);
         }
         return true;
     }
