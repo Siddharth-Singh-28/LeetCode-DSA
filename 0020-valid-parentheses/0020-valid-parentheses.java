@@ -15,8 +15,8 @@ class Solution {
         return stack.isEmpty();
     }
     public boolean isPair(char last, char curr){
-        return(last == '(' && curr == ')') ||
-              (last == '{' && curr == '}') ||
-              (last == '[' && curr == ']');
+        return (last =='{' && curr =='}')||
+               (last =='[' && curr ==']')||
+               (last =='(' && curr ==')');
     }
 }
