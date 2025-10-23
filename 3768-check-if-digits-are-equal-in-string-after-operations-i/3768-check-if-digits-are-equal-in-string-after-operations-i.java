@@ -1,24 +1,13 @@
 class Solution {
     public boolean hasSameDigits(String s) {
-        while(s.length() != 2 ){
-            int first = 0;
-            int second = 1;
-            StringBuilder num = new StringBuilder();
-            while(second < s.length()){
-                int num1 = s.charAt(first) - '0';
-                int num2 = s.charAt(second) - '0';
-                int sum = ((num1 + num2) % 10);
-                num.append(sum);
-                first++;
-                second++;
+        while (s.length() > 2) { // simpler and clearer condition
+            StringBuilder next = new StringBuilder(s.length() - 1);
+            for (int i = 0; i < s.length() - 1; i++) {
+                int sum = ((s.charAt(i) - '0') + (s.charAt(i + 1) - '0')) % 10;
+                next.append(sum);
             }
-            s = num.toString();
+            s = next.toString();
         }
-        if(s.charAt(0) == s.charAt(1)){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return s.charAt(0) == s.charAt(1);
     }
 }
