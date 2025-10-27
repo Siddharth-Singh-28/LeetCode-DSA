@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2551-apply-operations-to-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0898-transpose-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1205-defanging-an-ip-address) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
