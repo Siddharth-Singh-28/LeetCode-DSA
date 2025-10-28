@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2551-apply-operations-to-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Memoization
 |  |
 | ------- |
