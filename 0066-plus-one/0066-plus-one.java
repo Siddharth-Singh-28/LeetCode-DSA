@@ -1,32 +1,33 @@
-class Solution 
-{
-    public int[] plusOne(int[] digits)
-    {
-        ArrayList<Integer> list = new ArrayList<Integer>();
+class Solution {
+    public int[] plusOne(int[] digits) {
+        ArrayList<Integer> list = new ArrayList<>();
+        int carry = 1;
         int n = digits.length - 1;
-        int sum = (digits[n] + 1);
-        int carry = sum/10;
-        list.add(sum%10);
-        n--;
-        if(n>=0)
-        {
-            while(n>=0)
-            {
-                sum = digits[n] + carry;
-                list.add(sum%10);
-                carry = sum/10;
-                n--;
+        while(n >= 0){
+            int sum = digits[n] + carry;
+            if(sum <= 9){
+                list.add(sum);
+                carry = 0;
             }
+            else{
+                if(n!=0){
+                    sum = 0;
+                    list.add(sum);
+                }
+                else{
+                    sum = 0;
+                    list.add(sum);
+                    list.add(1);
+                }
+            }
+            n--;
         }
-        if(carry!=0)
-        list.add(carry);
-        int arr[] = new int[list.size()];
-        int count = 0;
-        for(int i=list.size() - 1; i>=0; i--)
-        {
-            arr[count] = list.get(i);
-            count++;
+        int[] result = new int[list.size()];
+        int reverse = result.length - 1;
+        for(int i=0; i<result.length; i++){
+            result[reverse] = list.get(i);
+            reverse--;
         }
-        return arr;
+        return result;
     }
 }
