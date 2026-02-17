@@ -1,17 +1,16 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int count  = 1;
-        int a  = 0;
-        int b = 1;
-        while(a < nums.length && b < nums.length) {
-            if(nums[a] == nums[b]) {
-                b++;
+        int pointer1 = 0;
+        int pointer2 = 1;
+        int count = 1;
+        while(pointer2 < nums.length) {
+            if(nums[pointer1] != nums[pointer2]) {
+                count++;
+                nums[++pointer1] = nums[pointer2];
+                pointer2++;
             }
             else {
-                count++;
-                a++;
-                nums[a] = nums[b];
-                b++;
+                pointer2++;
             }
         }
         return count;
