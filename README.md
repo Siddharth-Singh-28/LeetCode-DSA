@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1185-find-in-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
