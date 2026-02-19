@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0792-binary-search) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Siddharth-Singh-28/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
