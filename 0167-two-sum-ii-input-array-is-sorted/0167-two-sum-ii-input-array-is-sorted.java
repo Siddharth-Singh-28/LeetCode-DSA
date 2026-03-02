@@ -3,16 +3,16 @@ class Solution {
         int start = 0;
         int end = numbers.length - 1;
         while(start < end) {
-            if(numbers[end] + numbers[start] == target) {
-                return new int[]{start+1, end+1};
+            if(numbers[start] + numbers[end] == target) {
+                return new int[] {start+1, end+1};
             }
-            else if(numbers[end] + numbers[start] > target) {
-                end--;
-            }
-            else {
+            else if(numbers[start] + numbers[end] < target) {
                 start++;
             }
+            else {
+                end--;
+            }
         }
-        return new int[]{};
+        return new int[] {};
     }
 }
